@@ -1,10 +1,10 @@
 <h1 align="center">Hi dear 👋, I'm Jonathan Barros</h1>
-<h3 align="center">I am a Back-End student with a focus on always</h3>
+<h3 align="center">I'm a Back-End student with a focus on always learning</h3>
 
 
 - 📕 - Always updating myself and more passionate by technologies;
 
-- 💬 - If you want to contact me speak here: jonathan.sbarros@hotmail.com  or my <a href="https://www.linkedin.com/in/jonathansbarros/"> Linkedin </a>
+- 💬 - If you want to contact me here: jonathan.sbarros@hotmail.com  or my <a href="https://www.linkedin.com/in/jonathansbarros/"> Linkedin </a>
 
 <hr>
 
