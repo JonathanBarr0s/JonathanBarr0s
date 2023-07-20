@@ -11,7 +11,7 @@ Sou Jonathan Barros, um jovem apaixonado por tecnologia. Atualmente, estou focad
 
 <hr>
 
-## O que você encontra no meu Github:
+## O que você encontra no meu GitHub:
 - 🖥 Projetos de back-end
 - 👨🏻‍🎓 Meus trabalhos acadêmicos
 - ⌨ Alguns códigos aleatórios
