@@ -1,11 +1,15 @@
-<h1 align="center">Hi dear 👋, I'm Jonathan Barros</h1>
-<h3 align="center">I'm a Back-End student with a focus on always learning</h3>
+<h1 align="center">Seja bem-vindo ao meu GitHub</h1>
 
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+<br><br><br>
 
 Sou Jonathan Barros, um jovem apaixonado por tecnologia. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software back-end. Através de estudos autônomos e cursos especializados, estou expandindo meu conhecimento em linguagens de programação como JavaScript e C# (C Sharp). Sou dedicado, curioso e em busca de desafios que me permitam crescer profissionalmente.
 
-<hr>
+<br><br><br><br>
 
+<hr>
 
 ## Tecnologias:
 
@@ -21,6 +25,6 @@ Sou Jonathan Barros, um jovem apaixonado por tecnologia. Atualmente, estou focad
 
 <!---
 
-COMENTÁRIO AQUI
+- Site das figunrinhas: https://dev.to/envoy_/150-badges-for-github-pnk#database
 
 --->
