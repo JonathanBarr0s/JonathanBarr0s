@@ -3,11 +3,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="right">
 
-<br><br><br>
+<br><br>
 
 Sou Jonathan Barros, um jovem apaixonado por tecnologia. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software back-end. Através de estudos autônomos e cursos especializados, estou expandindo meu conhecimento em linguagens de programação como JavaScript e C# (C Sharp). Sou dedicado, curioso e em busca de desafios que me permitam crescer profissionalmente.
 
-<br>
+<br><br>
 
 <hr>
 
