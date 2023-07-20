@@ -2,9 +2,7 @@
 <h3 align="center">I'm a Back-End student with a focus on always learning</h3>
 
 
-- 📕 - Always updating myself and more passionate by technologies;
-
-- 💬 - If you want to contact me here: jonathan.sbarros@hotmail.com  or my <a href="https://www.linkedin.com/in/jonathansbarros/"> Linkedin </a>
+Sou Jonathan Barros, um jovem apaixonado por tecnologia. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software back-end. Através de estudos autônomos e cursos especializados, estou expandindo meu conhecimento em linguagens de programação como JavaScript e C# (C Sharp). Sou dedicado, curioso e em busca de desafios que me permitam crescer profissionalmente.
 
 <hr>
 
