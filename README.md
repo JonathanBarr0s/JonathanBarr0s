@@ -12,11 +12,11 @@ Sou Jonathan Barros, um jovem apaixonado por tecnologia. Atualmente, estou focad
 <hr>
 
 ## O que você encontra no meu Github:
-- Projetos de back-end
-- Meus trabalhos acadêmicos
-- Alguns códigos aleatórios
-- Meu primeiro software
-- Se precisar me contactar, utilize os links à esquerda
+- 🖥 Projetos de back-end
+- 👨🏻‍🎓 Meus trabalhos acadêmicos
+- ⌨ Alguns códigos aleatórios
+- 🌟 Meu primeiro software
+- 💬 Se precisar me contactar, utilize o [LinkedIn](https://www.linkedin.com/in/jonathansbarros/) ou [e-mail](mailto:jonathan.sbarros@outlook.com.br)
 
 ## Tecnologias:
 <p align="center">
