@@ -16,8 +16,8 @@ Sou Jonathan Barros, um jovem apaixonado por tecnologia. Atualmente, estou focad
 - 👨🏻‍🎓 Meus trabalhos acadêmicos
 - ⌨ Alguns códigos aleatórios
 - 🌟 Meu primeiro software
-- 💬 Se precisar me contactar, utilize o [LinkedIn](https://www.linkedin.com/in/jonathansbarros/) ou [e-mail](mailto:jonathan.sbarros@outlook.com.br)
 - 🌱 Visite meus repositórios e veja o que estou fazendo
+- 💬 Se precisar me contactar, utilize o [LinkedIn](https://www.linkedin.com/in/jonathansbarros/) ou [e-mail](mailto:jonathan.sbarros@outlook.com.br)
 
 ## Tecnologias:
 <p align="center">
