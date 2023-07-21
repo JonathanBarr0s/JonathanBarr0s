@@ -32,4 +32,6 @@ Sou Jonathan Barros, um jovem apaixonado por tecnologia. Atualmente, estou focad
 
 - Site das figunrinhas: https://dev.to/envoy_/150-badges-for-github-pnk#database
 
+- Para inserir uma linha, utilize <hr>
+
 --->
