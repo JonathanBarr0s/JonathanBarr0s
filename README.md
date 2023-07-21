@@ -7,9 +7,7 @@
 
 Sou Jonathan Barros, um jovem apaixonado por tecnologia. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software back-end. Através de estudos autônomos e cursos especializados, estou expandindo meu conhecimento em linguagens de programação como JavaScript e C# (C Sharp). Sou dedicado, curioso e em busca de desafios que me permitam crescer profissionalmente.
 
-<br><br>
-
-<hr>
+<br>
 
 ## O que você encontra aqui:
 - 🖥 Projetos de back-end
